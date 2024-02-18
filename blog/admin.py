@@ -18,6 +18,6 @@ class BlogAdmin(admin.ModelAdmin):
         html += "</ul>"
         return mark_safe(html)
     
-
+    
 admin.site.register(Blog, BlogAdmin)
 admin.site.register(Category)

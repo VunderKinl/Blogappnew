@@ -2611,6 +2611,8 @@ textarea.form-control-lg {
     
 }
 
+
+
 .form-check-input[type=checkbox] {
     border-radius: .25em
 }
@@ -4558,6 +4560,8 @@ fieldset:disabled .btn {
 .tab-content>.active {
     display: block
 }
+
+
 
 .navbar {
     position: relative;
@@ -12185,5 +12189,6 @@ fieldset:disabled .btn {
         display: none !important
     }
 }
+
 
 /*# sourceMappingURL=bootstrap.min.css.map */
